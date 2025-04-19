@@ -25,5 +25,9 @@
 #### 📊 GitHub Stats
 
 <div align="left" style="margin-top: -10px;">
-  <img width="320px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfaustinosilva&layout=compact&hide_border=true&title_color=8872ff&text_color=ffffff&bg_color=0d1117" />
+  <img 
+    width="320px" 
+    height="190px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfaustinosilva&layout=compact&hide_border=false&border_color=ffffff&title_color=8872ff&text_color=ffffff&bg_color=0d1117" 
+  />
 </div>
