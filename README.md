@@ -1,7 +1,7 @@
 <h4>print("Welcome to my GitHub")</h4>
 
 <p>
-- 🖥️ Passionate about data analysis and software development <br>
+- 🖥️ Passionate about data analysis <br>
 - 🎓 Bachelor's degree in Electrical Engineering <br>
 - 🪐 Life-long learner 
 </p>
