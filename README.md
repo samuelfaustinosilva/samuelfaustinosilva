@@ -19,8 +19,3 @@
   <img title="JavaScript" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
-
----
-#### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats-eight-tan-43.vercel.app/api/top-langs/?username=samuelfaustinosilva&layout=compact&theme=tokyonight)
