@@ -23,9 +23,4 @@
 ---
 #### 📊 GitHub Stats
 
-<div align="left" style="margin-top: -10px;">
-  <img 
-    width="320px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfaustinosilva&layout=compact&theme=tokyonight&cache_seconds=1800" 
-  />
-</div>
+![Top Langs](https://github-readme-stats-eight-tan-43.vercel.app/api/top-langs/?username=samuelfaustinosilva&layout=compact&theme=tokyonight)
